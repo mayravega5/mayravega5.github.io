@@ -90,6 +90,16 @@ ul {
   float: right;
 }
 
+.connect a:link,
+.connect a:visited,
+.connect a:active {
+  color: #fff;
+}
+
+.connect a:hover {
+  color: #000;
+}
+
 /* ---------- Media Queries ----------- */
 
 /* For tablets */
