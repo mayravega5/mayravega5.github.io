@@ -45,7 +45,7 @@ body {
   height: 450px;
   background: linear-gradient(#000, transparent 90%),
               linear-gradient(0deg, #fff, transparent),
-              #fff url('../img/profile.jpg') no-repeat center;
+              #fff url('./profile.jpg') no-repeat center;
   background-size: cover;
   color: white;
   text-align: center;
